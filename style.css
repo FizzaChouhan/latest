@@ -1,0 +1,27 @@
+@font-face {
+    font-family: face;
+    src: url();
+}
+.one{
+    background-color:#BEBEBE ;
+}
+.two{
+    background-color:#BEBEBE ;
+}
+.main{
+    display: flex;
+    flex-grow: unset;
+    
+}
+.hero{
+    background:  linear-gradient( to left, rgba(193, 222, 232, 1), rgba(251, 217, 185, 1) );
+
+}
+.album{
+    margin-left: 20px;
+}
+.last{
+    background: linear-gradient(to left , #C1DEE8,
+ #FBD9B9
+    )
+}   
